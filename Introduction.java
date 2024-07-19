@@ -8,7 +8,7 @@ public class Introduction{
         System.out.print("I always want to learn new things and explore my knowledge, ");
         System.out.print("So I joined in an organisation called Anudip where different courses are taught with good faculty, ");
         System.out.print("I enrolled into the course called Java full stack.");
-        System.out.println("I came to know about different things that deal with java such as Java Introduction, ");
+        System.out.println("I came to know about different things that deal with java such as Java Introduction,jre,jdk. ");
         System.out.println("I enrolled into the perfect platform at perfect time to improve my self and my skills.");
         System.out.println("My ultimate wish is to mould myself in possible better way that help me to achieve my goal.");
         System.out.println("I love dance and Music, so whenever I have leisure, I prefer listening to music and feel, experience it by dancing.");
